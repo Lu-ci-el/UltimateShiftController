@@ -3,8 +3,11 @@
 ## About
 
 ### JP
-Ultimate Shift Controller は、  
+Ultimate Shift Controller は、
+
 https://github.com/lost2heaven666/HyperShiftController
+
+
 HyperShift の仕組みを作っているうちに⋯
 「これ、全部自分で作れば Ultimate Shift になるのでは？」  
 と思ったのがきっかけで生まれました。
