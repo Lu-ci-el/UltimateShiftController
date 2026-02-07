@@ -6,7 +6,7 @@
 Ultimate Shift Controller は、
 
 https://github.com/lost2heaven666/HyperShiftController
-
+↑若干違うけど説明書　超絶バージョンアップしてるので・・・少し違うけどね！
 
 HyperShift の仕組みを作っているうちに⋯
 「これ、全部自分で作れば Ultimate Shift になるのでは？」  
