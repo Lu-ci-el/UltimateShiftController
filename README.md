@@ -1,3 +1,5 @@
+![Normal mapping example](/USC.png)
+
 # Ultimate Shift Controller
 
 ## About
@@ -19,6 +21,8 @@ HyperShift の仕組みを作っているうちに⋯
 ちなみにまだ **BETA** です。  
 たぶんバグもあります。  
 まあそのうち直す……と思います……。
+
+![Normal mapping example](/usc_256x256.png)
 
 ### EN
 Ultimate Shift Controller was born from a simple thought:
