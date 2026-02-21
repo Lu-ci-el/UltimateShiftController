@@ -77,7 +77,6 @@
 
 # 4. HYPERの設定をする（起爆：F13 / HYPER：F14）
 
-ここが抜けてたやつ。  
 UltimateShift側で <strong>HYPER世界</strong>を作る。
 
 - <strong>HYPER＝F14</strong>
