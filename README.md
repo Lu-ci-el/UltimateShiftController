@@ -3,6 +3,8 @@
 - English guide: [README_en.md](README_en.md)
 - Japanese guide: [README_JP.md](README_JP.md)
 
+https://www.youtube.com/watch?v=xKO9DV92bWc
+
 
 ![Normal mapping example](/USC.png)
 
