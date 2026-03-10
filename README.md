@@ -42,19 +42,6 @@ While recreating HyperShift-style behavior,
 I realized — if I build everything myself, it becomes an Ultimate Shift.
 
 This is a personal tool made to regain full control over key input.
-
----
-
-## Integrity / Hash
-
-### EXE (SHA256)
-**UltimateShiftController.exe**  
-`170719C4FA71BECA9D37B5F24EC9A4BFEE913AC5C3A5400D049E73DA5E0A3714`
-
-### ZIP (SHA256)
-**UltimateShiftController.zip**  
-`68D78E0ACC3922FA0EE2A29DAA3FC8337DF4BDC8E774DD5DB2958C5B035AD9C0`
-
 ---
 
 ## Support
@@ -66,3 +53,8 @@ This is a personal tool made to regain full control over key input.
 - Ko-fi: https://ko-fi.com/lost2
 
 もちろん、使ってもらえるだけでも嬉しいです。
+全然広まらないので・・・便利だったら広めて見てください。
+
+現在
+リリース版に向けてまだ未完成なラベル設定と細かいバグの調整をしています。
+全て出来上がればHUDを使ったゲーム以外でも工夫次第では色々な使い方ができるようになると思います。
