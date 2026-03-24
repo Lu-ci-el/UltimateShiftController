@@ -1,7 +1,7 @@
 # UltimateShiftController — Windows controller/input remapper (HidHide / ViGEmBus / virtual DS4/X360)
 
-- English guide: [README_en.md](README_en.md)
-- Japanese guide: [README_JP.md](README_JP.md)
+- English guide: [README_en.md](README_en.md)　New:2026/03/24 [Instructions.md](Instructions.md)
+- Japanese guide: [README_JP.md](README_JP.md)  New:2026/03/24 [説明書.md](説明書.md)
 
 Community & updates:
 https://reddit.com/r/UltimateShiftControll
