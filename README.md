@@ -33,6 +33,23 @@ HyperShift の仕組みを作っているうちに⋯
 たぶんバグもあります。  
 まあそのうち直す……と思います……。
 
+ってのは2026年の3月までさ
+
+もう大体できてる
+
+たまにバグが見つかるので更新するで
+
+xbox oneのコントローラー使ってる人は
+とし仮想コントローラー使う場合は
+
+以下を試してね
+
+コントローラーが認識されない場合は、Ultimate Shift Controller を「管理者として実行」してみてください。
+仮想コントローラー、HidHide、他のリマップツールが入っている環境では、管理者権限での実行が必要になる場合があります。
+
+If your controller is not detected, try running Ultimate Shift Controller as Administrator.
+Some environments may require elevated permissions, especially when virtual controller drivers, HidHide, or other remapping tools are installed.
+
 ![Normal mapping example](/usc_256x256.png)
 
 ### EN
@@ -59,3 +76,5 @@ This is a personal tool made to regain full control over key input.
 リリース版に向けてまだ未完成なラベル設定と細かいバグの調整をしています。
 全て出来上がればHUDを使ったゲーム以外でも
 工夫次第では色々な使い方ができるようになると思います。
+
+もう終わったほぼあとは自分でやっててバグか見つかるかで更新
