@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=xKO9DV92bWc
 ### JP
 Ultimate Shift Controller は、
 
-https://github.com/lost2heaven666/HyperShiftController
+https://github.com/Lu-ci-el/HyperShiftController
 
 ↑若干違うけど説明書　超絶バージョンアップしてるので・・・少し違うけどね！
 
