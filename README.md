@@ -3,8 +3,6 @@
 - English guide: [README_en.md](README_en.md)　New:2026/03/24 [Instructions](Instructions_en.md)
 - Japanese guide: [README_JP.md](README_JP.md)  New:2026/03/24 [説明書](Instructions_jp.md)
 
-Community & updates:
-https://reddit.com/r/UltimateShiftControll
 
 https://www.youtube.com/watch?v=xKO9DV92bWc
 
