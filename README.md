@@ -1,7 +1,7 @@
 # Ultimate Shift Controller
 
 **Windows controller / keyboard / mouse remapper**  
-**Current formal release: v3.0.4**
+**Current formal release: v3.1.5**
 
 Ultimate Shift Controller (USC) is a **free, lightweight, portable input remapper for Windows** built for practical everyday use.
 
