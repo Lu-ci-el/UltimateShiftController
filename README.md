@@ -51,8 +51,6 @@ USCが重視しているのは、機能数を増やすことそのものでは�
 
 といった、実際に使っている時の困りごとを減らすことを目的にしています。
 
-## v3.0.4 の主なポイント
-
 ### 4つの入力レイヤー
 
 - **NORMAL** — 通常状態
@@ -96,7 +94,7 @@ USCのHUDは装飾だけではなく、実際の操作確認に使うためのHU
 
 ### Google Chromeの端末内翻訳
 
-v3.0.4では、**64bit版Google Chromeの端末内翻訳機能**を利用した翻訳機能を搭載しています。
+**64bit版Google Chromeの端末内翻訳機能**を利用した翻訳機能を搭載しています。
 
 基本操作:
 
@@ -218,8 +216,6 @@ The goal is not simply to have the longest feature list. USC is built to help wi
 - forgetting layered layouts
 - not knowing which layer is currently active
 - not knowing what input USC actually interpreted or sent
-
-## Main features in v3.0.4
 
 ### Four practical layers
 
