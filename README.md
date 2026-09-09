@@ -1,7 +1,7 @@
 # Ultimate Shift Controller
 
 **Windows controller / keyboard / mouse remapper**  
-**Current formal release: v3.1.5**
+**Current stable release: v3.1.5**
 
 Ultimate Shift Controller (USC) is a **free, lightweight, portable input remapper for Windows** built for practical everyday use.
 
@@ -95,6 +95,12 @@ USCのHUDは装飾だけではなく、実際の操作確認に使うためのHU
 ### Google Chromeの端末内翻訳
 
 **64bit版Google Chromeの端末内翻訳機能**を利用した翻訳機能を搭載しています。
+
+#### 🎥 翻訳機能の実動作
+
+[![Ultimate Shift Controller - Translation](https://img.youtube.com/vi/YwnXxF96ExM/hqdefault.jpg)](https://youtu.be/YwnXxF96ExM)
+
+▶ **画像をクリックするとYouTubeで実際の翻訳動作を確認できます。**
 
 基本操作:
 
@@ -262,21 +268,27 @@ USC supports practical workflows including:
 
 v3.0.4 adds translation using **64-bit Google Chrome's on-device translation capability**.
 
+#### 🎥 Translation in Action
+
+[![Ultimate Shift Controller - Translation](https://img.youtube.com/vi/YwnXxF96ExM/hqdefault.jpg)](https://youtu.be/YwnXxF96ExM)
+
+▶ **Click the image above to watch the translation feature in action on YouTube.**
+
 Typical workflow:
 
 1. Select foreign-language text
-2. Press your configured translation ignition key
-3. Translate it into your own USC language
+2. Press your configured translation hotkey
+3. Translate it into your configured USC language
 4. Write your reply in your own language and select it
-5. Trigger again to translate it back into the last successful conversation language
+5. Press the translation hotkey again to translate it into the last successfully detected conversation language
 6. Optional auto-copy places the outgoing translation on the Clipboard
-7. **USC never auto-pastes the result**
+7. **USC never automatically pastes the result**
 
-USC includes 14 built-in languages, and additional languages can be prepared individually with BCP-47 tags when supported by Chrome.
+USC includes 14 built-in languages. Additional languages supported by Chrome can be configured individually using BCP-47 language tags.
 
-Normal translation does not work by opening a web translation site. USC uses Chrome-owned on-device translation models and does not copy Chrome Profile, TranslateKit, language packs, models, or cache into the USC folder.
+Normal translation does not work by opening an external translation website. USC uses Chrome's on-device translation models and does not copy Chrome Profile, TranslateKit, language packs, models, or cache into the USC folder.
 
-Translation requires 64-bit Google Chrome and a supported Chrome-side model. There is no Microsoft Edge fallback.
+Translation requires 64-bit Google Chrome and a supported language model available in Chrome. There is no Microsoft Edge fallback.
 
 ## Portable setup
 
@@ -360,63 +372,63 @@ Using the tool is already appreciated. If you find it useful, sharing it with ot
 
 💸 Seriously, someone support me! / マジで誰かお布施くれｗｗ
 
-🇯🇵 日本語 — ja-JP
-マジで誰かお布施くれｗｗ 😂
+🇯🇵 日本語 — ja-JP  
+マジで誰かお布施くれｗｗ 😂  
 USCの開発を続ける燃料になります！
 
-🇺🇸 English — en-US
-Seriously, someone please throw me a donation lol 😂
+🇺🇸 English — en-US  
+Seriously, someone please throw me a donation lol 😂  
 It helps keep USC development going!
 
-🇬🇧 English — en-GB
-Seriously, someone chuck me a donation 😂
+🇬🇧 English — en-GB  
+Seriously, someone chuck me a donation 😂  
 It helps keep USC development going!
 
-🇩🇪 Deutsch — de-DE
-Ernsthaft, spendiert mir doch jemand eine kleine Spende 😂
+🇩🇪 Deutsch — de-DE  
+Ernsthaft, spendiert mir doch jemand eine kleine Spende 😂  
 Damit ich USC weiterentwickeln kann!
 
-🇪🇸 Español — es-ES
-En serio, que alguien me eche una donación 😂
+🇪🇸 Español — es-ES  
+En serio, que alguien me eche una donación 😂  
 ¡Así puedo seguir desarrollando USC!
 
-🇫🇷 Français — fr-FR
-Sérieusement, quelqu’un peut me faire un petit don ? 😂
+🇫🇷 Français — fr-FR  
+Sérieusement, quelqu’un peut me faire un petit don ? 😂  
 Ça m’aide à continuer le développement d’USC !
 
-🇮🇹 Italiano — it-IT
-Sul serio, qualcuno mi faccia una piccola donazione 😂
+🇮🇹 Italiano — it-IT  
+Sul serio, qualcuno mi faccia una piccola donazione 😂  
 Mi aiuta a continuare lo sviluppo di USC!
 
-🇰🇷 한국어 — ko-KR
-진짜 누가 후원 좀 해줘요 ㅋㅋ 😂
+🇰🇷 한국어 — ko-KR  
+진짜 누가 후원 좀 해줘요 ㅋㅋ 😂  
 USC 개발을 계속하는 데 큰 힘이 됩니다!
 
-🇵🇱 Polski — pl-PL
-Serio, niech ktoś dorzuci parę groszy 😂
+🇵🇱 Polski — pl-PL  
+Serio, niech ktoś dorzuci parę groszy 😂  
 To pomaga mi dalej rozwijać USC!
 
-🇧🇷 Português — pt-BR
-Sério, alguém manda uma doação aí kkk 😂
+🇧🇷 Português — pt-BR  
+Sério, alguém manda uma doação aí kkk 😂  
 Isso ajuda a continuar o desenvolvimento do USC!
 
-🇷🇺 Русский — ru-RU
-Серьёзно, кто-нибудь, закиньте немного на поддержку 😂
+🇷🇺 Русский — ru-RU  
+Серьёзно, кто-нибудь, закиньте немного на поддержку 😂  
 Это поможет мне продолжать разработку USC!
 
-🇹🇷 Türkçe — tr-TR
-Cidden biri biraz destek atsın ya 😂
+🇹🇷 Türkçe — tr-TR  
+Cidden biri biraz destek atsın ya 😂  
 USC'yi geliştirmeye devam etmemi sağlıyor!
 
-🇨🇳 简体中文 — zh-CN
-真的，谁来赞助一下吧哈哈 😂
+🇨🇳 简体中文 — zh-CN  
+真的，谁来赞助一下吧哈哈 😂  
 这能让我继续开发 USC！
 
-🇹🇼 繁體中文 — zh-TW
-真的，誰來贊助一下啦哈哈 😂
+🇹🇼 繁體中文 — zh-TW  
+真的，誰來贊助一下啦哈哈 😂  
 這能讓我繼續開發 USC！
 
 Support / お布施はこちら 😂
 
-Ofuse: https://ofuse.me/lost
+Ofuse: https://ofuse.me/lost  
 Ko-fi: https://ko-fi.com/lost2
